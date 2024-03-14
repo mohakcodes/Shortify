@@ -1,2 +1,2 @@
-export const API_URL = "http://20.193.140.79:3000/url";
-export const API_AUTH = "http://20.193.140.79:3000/auth";
+export const API_URL = "https://shortify-fullstack.onrender.com/url";
+export const API_AUTH = "https://shortify-fullstack.onrender.com/auth";
